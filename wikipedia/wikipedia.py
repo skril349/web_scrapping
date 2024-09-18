@@ -22,5 +22,6 @@ parser = html.fromstring(response.text)
 
 ### obtenim totes les llengues
 idiomas = parser.xpath("//div[contains(@class,'central-featured-lang')]//strong/text()")
-print(idiomas)
 
+for idioma in idiomas:
+    print(idioma)
