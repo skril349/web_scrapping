@@ -10,9 +10,17 @@ response = requests.get(url, headers = encabezados)
 
 parser = html.fromstring(response.text)
 
+### Obtenim eglissh desde lxml
 # ingles = parser.get_element_by_id("js-link-box-en")
 # print(ingles.text_content())
 
-ingles = parser.xpath("//a[@id='js-link-box-en']/strong/text()")
+### Obtenim english desde xpath
+# idiomas = parser.xpath("//a[@id='js-link-box-en']/strong/text()")
 
-print(ingles)
+# print(ingles)
+
+
+### obtenim totes les llengues
+idiomas = parser.xpath("//div[contains(@class,'central-featured-lang')]//strong/text()")
+print(idiomas)
+
