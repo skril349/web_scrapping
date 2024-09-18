@@ -10,5 +10,9 @@ response = requests.get(url, headers = encabezados)
 
 parser = html.fromstring(response.text)
 
-ingles = parser.get_element_by_id("js-link-box-en")
-print(ingles.text_content())
+# ingles = parser.get_element_by_id("js-link-box-en")
+# print(ingles.text_content())
+
+ingles = parser.xpath("//a[@id='js-link-box-en']/strong/text()")
+
+print(ingles)
