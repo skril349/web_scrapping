@@ -1,0 +1,491 @@
+descripcion,pregunta
+"
+                Estoy utilizando el módulo de nómina de Odoo V17 estándar. Definí varios tipos de sobretiempo. Cómo puedo crear reglas para calcular el monto a pagar al empleado por cada tipo de sobretiempo?
+            ",Como crear reglas en Odoo estándar nómina para calcular distintos tipos de sobretiempo?
+"
+                Estoy utilizando el módulo de nómina de Odoo V17 estándar. Definí varios tipos de sobretiempo. Cómo puedo crear reglas para calcular el monto a pagar al empleado por cada tipo de sobretiempo?
+            ",Como crear reglas en Odoo estándar nómina para calcular distintos tipos de sobretiempo?
+"
+                Estoy haciendo un proyecto con el backend en .net y el front en React y tengo un problema al parecer al momento de autorizar el usuario.
+Contexto de cómo funciona básicamente la app:
+El controlador ...
+            ",Manejo de cookies/autorizacion entre .Net y React
+"
+                Estoy haciendo un proyecto con el backend en .net y el front en React y tengo un problema al parecer al momento de autorizar el usuario.
+Contexto de cómo funciona básicamente la app:
+El controlador ...
+            ",Manejo de cookies/autorizacion entre .Net y React
+"
+                En mi proyecto tengo un sistema de navegación por pestañas (tab) que contiene extenso contenido cada uno.
+Este dónde esté la etiqueta nav, al hacer click sobre un nombre, se muestra su contenido y se ...
+            ",Activar dos scroll al mismo tiempo: uno en body y otro en div
+"
+                En mi proyecto tengo un sistema de navegación por pestañas (tab) que contiene extenso contenido cada uno.
+Este dónde esté la etiqueta nav, al hacer click sobre un nombre, se muestra su contenido y se ...
+            ",Activar dos scroll al mismo tiempo: uno en body y otro en div
+"
+                Quiero hacer booteable un USB con partición BtrFS con grub4dos.
+¿Es posible? ¿Cómo lo hago?
+            ",¿Cómo le pongo grub4dos a un BtrFS?
+"
+                Quiero hacer booteable un USB con partición BtrFS con grub4dos.
+¿Es posible? ¿Cómo lo hago?
+            ",¿Cómo le pongo grub4dos a un BtrFS?
+"
+                estoy aprendiendo Kotlin en hyperskill, y hay un problema que dice lo siguiente:
+Find a directory with the max number of files
+You must write a program that finds a directory with the maximum number ...
+            ",Obtener una lista de directorios con su cantidad de archivo en kotlin
+"
+                estoy aprendiendo Kotlin en hyperskill, y hay un problema que dice lo siguiente:
+Find a directory with the max number of files
+You must write a program that finds a directory with the maximum number ...
+            ",Obtener una lista de directorios con su cantidad de archivo en kotlin
+"
+                launch: program 'c:/users/zS24016721/programa4.exe' does not exist
+            ",Al momento de intentar compilar cualquier codigo en Visual Studio Code me arroja un cuadro de texto diciendo que no existe [cerrada]
+"
+                launch: program 'c:/users/zS24016721/programa4.exe' does not exist
+            ",Al momento de intentar compilar cualquier codigo en Visual Studio Code me arroja un cuadro de texto diciendo que no existe [cerrada]
+"
+                Entorno: Digital Persona 4500 con macro VB de Excel.
+Quiero ampliar un aplicativo existente para verificar que alguien autoriza la operativa.
+Si el lector detecta una huella se activa un control ...
+            ",VB Excel obtener huella dactilar y verificarla
+"
+                Entorno: Digital Persona 4500 con macro VB de Excel.
+Quiero ampliar un aplicativo existente para verificar que alguien autoriza la operativa.
+Si el lector detecta una huella se activa un control ...
+            ",VB Excel obtener huella dactilar y verificarla
+"
+                Tengo elementos que muestro a través de un arreglo que se llena desde una base datos. Uno de los elementos es una imagen. Mi idea es que al pasar el ratón por la imagen esta desaparezca y se ...
+            ",AddeventListener con mouseover y mouseout en arrreglos
+"
+                Tengo elementos que muestro a través de un arreglo que se llena desde una base datos. Uno de los elementos es una imagen. Mi idea es que al pasar el ratón por la imagen esta desaparezca y se ...
+            ",AddeventListener con mouseover y mouseout en arrreglos
+"
+                tengo una duda es como mostrar dos resultados en el mismo case
+select (a.prvrtn)RTN, (b.CmpCabAplGtoPol)Documento, (b.cmpprvcai)CAI, 
+(b.CmpPrvFactura)NFactura, (a.PrvNombre)Ndocumento, (b....
+            ",Como realizar una consulta con un case que me muestre dos resultados en una misma fila?
+"
+                tengo una duda es como mostrar dos resultados en el mismo case
+select (a.prvrtn)RTN, (b.CmpCabAplGtoPol)Documento, (b.cmpprvcai)CAI, 
+(b.CmpPrvFactura)NFactura, (a.PrvNombre)Ndocumento, (b....
+            ",Como realizar una consulta con un case que me muestre dos resultados en una misma fila?
+"
+                Al descargar Android Studio con la configuración predeterminada me aparece el error:
+**FAILURE: Build failed with an exception.
+
+What went wrong:
+A build operation failed.
+Could not move temporary ...
+            ","Error Inicial al Descargar Android Studio (""Could not move temporary workspace to immutable location"")"
+"
+                Al descargar Android Studio con la configuración predeterminada me aparece el error:
+**FAILURE: Build failed with an exception.
+
+What went wrong:
+A build operation failed.
+Could not move temporary ...
+            ","Error Inicial al Descargar Android Studio (""Could not move temporary workspace to immutable location"")"
+"
+                En Genexus 18 U6, tengo un web panel en el cual quiero mostrar una Animation, siguiendo la documentación.
+Al ejecutar el evento, el web panel no me muestra nada, y si veo la consola de desarrollador ...
+            ",Animation busca mal el archivo JSON
+"
+                En Genexus 18 U6, tengo un web panel en el cual quiero mostrar una Animation, siguiendo la documentación.
+Al ejecutar el evento, el web panel no me muestra nada, y si veo la consola de desarrollador ...
+            ",Animation busca mal el archivo JSON
+"
+                Estoy realizando una página blog utilizando Next.js y quería saber que es mejor para realizar los cuerpos de las páginas, pensé utilizar alguna librería con TinyMCE o CKEditor para general el HTML, ...
+            ",Que es mejor para crear un blog Markdown o HTML? [cerrada]
+"
+                Estoy realizando una página blog utilizando Next.js y quería saber que es mejor para realizar los cuerpos de las páginas, pensé utilizar alguna librería con TinyMCE o CKEditor para general el HTML, ...
+            ",Que es mejor para crear un blog Markdown o HTML? [cerrada]
+"
+                Estoy creando mi interfaz en python con tkinter y estoy utilizando como fondo una imágen.
+Tengo mi siguiente label:
+tk.Label(root, text=""Bienvenidos"", font=('Arial', 16), bg='#FFFFFF', fg='#...
+            ",Color de fondo transparente en tkinter
+"
+                Estoy creando mi interfaz en python con tkinter y estoy utilizando como fondo una imágen.
+Tengo mi siguiente label:
+tk.Label(root, text=""Bienvenidos"", font=('Arial', 16), bg='#FFFFFF', fg='#...
+            ",Color de fondo transparente en tkinter
+"
+                Supongamos que queremos introducir por teclado una secuencia formada por una letra y 9 números separados por un espacio, por ejemplo:
+C 1 2 3 4 5 6 7 8 9
+
+Si lo hiciéramos en C++ haríamos:
+char letra;
+...
+            ",input sobre una secuencia de una letras y 9 numeros
+"
+                Supongamos que queremos introducir por teclado una secuencia formada por una letra y 9 números separados por un espacio, por ejemplo:
+C 1 2 3 4 5 6 7 8 9
+
+Si lo hiciéramos en C++ haríamos:
+char letra;
+...
+            ",input sobre una secuencia de una letras y 9 numeros
+"
+                Tengo un listado de tareas ObservableCollection que tiene anidado un listado de produtcos(cada tarea tiene productos distintos.):
+  public async Task obtenerTareasC(string idAgente)
+ {
+   ....
+        ...
+            ",No logro mostrar lista anidada en Picker NET MAUI
+"
+                Tengo un listado de tareas ObservableCollection que tiene anidado un listado de produtcos(cada tarea tiene productos distintos.):
+  public async Task obtenerTareasC(string idAgente)
+ {
+   ....
+        ...
+            ",No logro mostrar lista anidada en Picker NET MAUI
+"
+                Estoy intentando enviar bytes desde el serial Arduino para un dispositivo serial de RS232 de StarTech en el que recibe la información serial desde un puerto RS232 que está conectado con el RX/TX del ...
+            ",Problema de serial entre Arduino y Python
+"
+                Estoy intentando enviar bytes desde el serial Arduino para un dispositivo serial de RS232 de StarTech en el que recibe la información serial desde un puerto RS232 que está conectado con el RX/TX del ...
+            ",Problema de serial entre Arduino y Python
+"
+                Como dice en el título estoy desarrollando una aplicacion de escritorio en WPF y en .NET Framework 4.8.(Todo con Visual Studio 2022)
+Estoy utilizando SQL EXPRESS de motor de BD con la instalacion ...
+            ","Bloqueo o Errores SQL (Aplicacion WPF .NET Framework 4,8) C#"
+"
+                Como dice en el título estoy desarrollando una aplicacion de escritorio en WPF y en .NET Framework 4.8.(Todo con Visual Studio 2022)
+Estoy utilizando SQL EXPRESS de motor de BD con la instalacion ...
+            ","Bloqueo o Errores SQL (Aplicacion WPF .NET Framework 4,8) C#"
+"
+                Muy buenas,
+Intento pasar un array de datos en formato JSON desde PHP a una función JavaScript mediante un enlace HTML:
+echo '<a href=""#"" onclick=PDFComplejo('. json_encode($filas).')&...
+            ",Pasar Array de datos en JSON a JavaScript <a onclick
+"
+                Muy buenas,
+Intento pasar un array de datos en formato JSON desde PHP a una función JavaScript mediante un enlace HTML:
+echo '<a href=""#"" onclick=PDFComplejo('. json_encode($filas).')&...
+            ",Pasar Array de datos en JSON a JavaScript <a onclick
+"
+                Queria consultar sobre la forma de entregar HTML, en ASP.NET Core.
+Actualmente estoy en una API minima, en un ENDPOINT el cual recibe por parametro un token aleatorio enviado a traves de un EMAIL de ...
+            ",Entrega de HTML API MINIMA ASP.NET error email
+"
+                Queria consultar sobre la forma de entregar HTML, en ASP.NET Core.
+Actualmente estoy en una API minima, en un ENDPOINT el cual recibe por parametro un token aleatorio enviado a traves de un EMAIL de ...
+            ",Entrega de HTML API MINIMA ASP.NET error email
+"
+                [![Quiero poner los datos donde están los libros pero con una base de datos, saben como le puedo hacer?
+            ",Javafx y bases de datos [cerrada]
+"
+                [![Quiero poner los datos donde están los libros pero con una base de datos, saben como le puedo hacer?
+            ",Javafx y bases de datos [cerrada]
+"
+                Estoy buscando acceder al informe más reciente publicado por la CEPAL (Comisión Económica para América Latina y el Caribe). Me interesa especialmente comprender las principales tendencias económicas y ...
+            ",Solicitud de Acceso al Último Informe de la CEPAL y sus Perspectivas [cerrada]
+"
+                Estoy buscando acceder al informe más reciente publicado por la CEPAL (Comisión Económica para América Latina y el Caribe). Me interesa especialmente comprender las principales tendencias económicas y ...
+            ",Solicitud de Acceso al Último Informe de la CEPAL y sus Perspectivas [cerrada]
+"
+                Me sale un error de sintaxis cerca del for y en el end for en mi SQL Server. ¿Por qué?
+El código es este:
+declare @valor int;
+
+ FOR i IN 1..5 LOOP
+   set @valor = @valor +1
+ END LOOP;
+
+ select @valor ...
+            ",SQL Server error de sintaxis con for
+"
+                Me sale un error de sintaxis cerca del for y en el end for en mi SQL Server. ¿Por qué?
+El código es este:
+declare @valor int;
+
+ FOR i IN 1..5 LOOP
+   set @valor = @valor +1
+ END LOOP;
+
+ select @valor ...
+            ",SQL Server error de sintaxis con for
+"
+                Estoy teniendo una violación de segmento en GAS y la verdad no entiendo la razón.
+No estoy muy seguro de la razón, pero sé que lo causa al intentar hacer un historial de los comandos ingresados por ...
+            ",Problema de acceso de memoria inválida en GAS con llamadas al kernel Linux de x86-64
+"
+                Estoy teniendo una violación de segmento en GAS y la verdad no entiendo la razón.
+No estoy muy seguro de la razón, pero sé que lo causa al intentar hacer un historial de los comandos ingresados por ...
+            ",Problema de acceso de memoria inválida en GAS con llamadas al kernel Linux de x86-64
+"
+                [
+{
+""userId"": 1,
+""id"": 1,
+""title"": ""delectus aut autem"",
+""completed"": false
+},
+{
+""userId"": 1,
+""id"": 2,
+""title"": ""...
+            ","-Crear un componente . -En el mismo listar los datos de la siguiente API, agregar algunos estilospara que se entienda bien cada espacio.creo pagina [cerrada]"
+"
+                [
+{
+""userId"": 1,
+""id"": 1,
+""title"": ""delectus aut autem"",
+""completed"": false
+},
+{
+""userId"": 1,
+""id"": 2,
+""title"": ""...
+            ","-Crear un componente . -En el mismo listar los datos de la siguiente API, agregar algunos estilospara que se entienda bien cada espacio.creo pagina [cerrada]"
+"
+                Espero que se encuentre bien.
+Quería comunicarle una situación preocupante que ha afectado a una familiar. Recientemente, la cuenta de Facebook de mi prima ha sido comprometida por terceros no ...
+            ",Hackear cuenta de facebook [cerrada]
+"
+                Espero que se encuentre bien.
+Quería comunicarle una situación preocupante que ha afectado a una familiar. Recientemente, la cuenta de Facebook de mi prima ha sido comprometida por terceros no ...
+            ",Hackear cuenta de facebook [cerrada]
+"
+                El código lo copie y pegue de otro sitio, es para que se vean fantasmas en mi sitio web con javascript. Pero no carga las imagenes que deberian de ser 30 al quererlo ver en línea.
+NOTA: En vsc ...
+            ",Código Script si funciona en vsc pero al cargar en sitio web ya no se ve el contenido
+"
+                El código lo copie y pegue de otro sitio, es para que se vean fantasmas en mi sitio web con javascript. Pero no carga las imagenes que deberian de ser 30 al quererlo ver en línea.
+NOTA: En vsc ...
+            ",Código Script si funciona en vsc pero al cargar en sitio web ya no se ve el contenido
+"
+                Básicamente lo que quiero hacer es poder filtrar los valores de la propiedad ""Precio"" del objeto que está dentro de un Array, que a su vez está dentro de un Array Padre.
+Estoy practicando ...
+            ",Filtrar los valores de un Array Object dentro de otro Array
+"
+                Básicamente lo que quiero hacer es poder filtrar los valores de la propiedad ""Precio"" del objeto que está dentro de un Array, que a su vez está dentro de un Array Padre.
+Estoy practicando ...
+            ",Filtrar los valores de un Array Object dentro de otro Array
+"
+                Me gustaría saber la forma o manera de encriptar lo que se escribe en un inputbox en c#.
+            ",Cómo encriptar lo que se escribe en un InputBox usando C#
+"
+                Me gustaría saber la forma o manera de encriptar lo que se escribe en un inputbox en c#.
+            ",Cómo encriptar lo que se escribe en un InputBox usando C#
+"
+                quise empezar a hacer un proyecto de practica y al momento de hacer un entorno virtual tuve el siguiente problema, me pidieron utilizar:
+python -m venv venv
+Y me sale un error en ""venv"" ...
+            ",Install como syntax error en consola python
+"
+                quise empezar a hacer un proyecto de practica y al momento de hacer un entorno virtual tuve el siguiente problema, me pidieron utilizar:
+python -m venv venv
+Y me sale un error en ""venv"" ...
+            ",Install como syntax error en consola python
+"
+                tengo un problema para importar esta librería para hacer Toast con diseño.
+com.github.johnpersano:supertoasts:1.3.4
+Inicialmente me permite agregar la librería pero luego no me deja importarla en el ...
+            ",Toast importar libreria
+"
+                tengo un problema para importar esta librería para hacer Toast con diseño.
+com.github.johnpersano:supertoasts:1.3.4
+Inicialmente me permite agregar la librería pero luego no me deja importarla en el ...
+            ",Toast importar libreria
+"
+                por favor me indican como crear backups en SQL Server 2022,cual es la ruta para guardarlos.
+Gracias
+            ",Cual es la ruta/destino de archivo para crear/guardar los backups de SQL Server 2022? [cerrada]
+"
+                por favor me indican como crear backups en SQL Server 2022,cual es la ruta para guardarlos.
+Gracias
+            ",Cual es la ruta/destino de archivo para crear/guardar los backups de SQL Server 2022? [cerrada]
+"
+                Básicamente estoy intentando crear una vista donde muestre el tiempo de descanso que lleva un empleado con su ficha correspondiente, pero el problema es que el cronómetro va bien hasta que llega al ...
+            ",Cómo hago para que el cronometro que me muestra esta vista no se reinicie a 00:00 cada 5 segundos?
+"
+                Básicamente estoy intentando crear una vista donde muestre el tiempo de descanso que lleva un empleado con su ficha correspondiente, pero el problema es que el cronómetro va bien hasta que llega al ...
+            ",Cómo hago para que el cronometro que me muestra esta vista no se reinicie a 00:00 cada 5 segundos?
+"
+                Estoy tratando de hacer que una serie de preguntas (entry) se queden a la esquina derecha, pero no se como. Tal vez necesite usar una función de python que todavía no se.
+Esto es lo que he intentado:
+...
+            ",Como hacer que un entry se quede pegado a la esquina
+"
+                Estoy tratando de hacer que una serie de preguntas (entry) se queden a la esquina derecha, pero no se como. Tal vez necesite usar una función de python que todavía no se.
+Esto es lo que he intentado:
+...
+            ",Como hacer que un entry se quede pegado a la esquina
+"
+                Me podrían ayudar con el componente TAviCapture de JEDI y Delphi Alexandria.
+El problema consiste en que manda la pantalla de la webcam negra, pero si ejecuto la cámara desde windows si funciona bien.
+...
+            ",Webcam manda pantalla negra [cerrada]
+"
+                Me podrían ayudar con el componente TAviCapture de JEDI y Delphi Alexandria.
+El problema consiste en que manda la pantalla de la webcam negra, pero si ejecuto la cámara desde windows si funciona bien.
+...
+            ",Webcam manda pantalla negra [cerrada]
+"
+                no encontré en una búsqueda esto que necesito-
+Tengo un form con varios input, que al seleccionarlos, le modifico el label con CSS con :focus-within, pero al terminar de completarlos y seleccionar ...
+            ",Modificar estilo de label cuando input esta completo [cerrada]
+"
+                no encontré en una búsqueda esto que necesito-
+Tengo un form con varios input, que al seleccionarlos, le modifico el label con CSS con :focus-within, pero al terminar de completarlos y seleccionar ...
+            ",Modificar estilo de label cuando input esta completo [cerrada]
+"
+                Tengo unos errores en mi código, la maestra nos mostró un ejemplo de lo que hizo y debemos hacerlo igual pero cuando intento correrlo me da error en las 2 primeras líneas de codigo las cuales dicen
+&...
+            ",Mi primer linea de codigo
+"
+                Tengo unos errores en mi código, la maestra nos mostró un ejemplo de lo que hizo y debemos hacerlo igual pero cuando intento correrlo me da error en las 2 primeras líneas de codigo las cuales dicen
+&...
+            ",Mi primer linea de codigo
+"
+                intente buscar la carpeta de ""Procedure"" en SQL Server 2019 y no me aparece, pero al crear la Procedure que en mi caso se llama ""sp_RegistrarUsuario"" si me aparece, ya que lo ...
+            ",No me aparece la carpeta de procedure en ninguna de las base de datos de SQL Server 2019
+"
+                intente buscar la carpeta de ""Procedure"" en SQL Server 2019 y no me aparece, pero al crear la Procedure que en mi caso se llama ""sp_RegistrarUsuario"" si me aparece, ya que lo ...
+            ",No me aparece la carpeta de procedure en ninguna de las base de datos de SQL Server 2019
+"
+                estoy intentando instalar VS2019
+            ","al momento de Instalar VS2019 me genera el error, antes tenia VS2022"
+"
+                estoy intentando instalar VS2019
+            ","al momento de Instalar VS2019 me genera el error, antes tenia VS2022"
+"
+                Tengo un problema al usar pybind11 para llamar a una funcion de una libreria de C++ donde se devuelve el contenido por parametro.
+Estoy haciendo un ejemplo mas sencillo y no consigo que la funcion ...
+            ",Problema modificacion contenido vector cuando se pasa por parametro a una funcion (C++ y Pybind11)
+"
+                Tengo un problema al usar pybind11 para llamar a una funcion de una libreria de C++ donde se devuelve el contenido por parametro.
+Estoy haciendo un ejemplo mas sencillo y no consigo que la funcion ...
+            ",Problema modificacion contenido vector cuando se pasa por parametro a una funcion (C++ y Pybind11)
+"
+                Tengo el siguiente template xlsx:
+Column1Lbl
+Column2Lbl
+...
+Column30Lbl
+Column31Lbl
+Column32Lbl
+Column33Lbl
+{{item.Column1}}
+{{item.Column2}}
+...
+{{item.Column30}}
+{{item.Column31}}
+{{item.Column32}}...
+            ",ClosedXML exporta Excel con error No property or field '...' exists in type '<CastIterator>d__97`1' desde columna 33
+"
+                Tengo el siguiente template xlsx:
+Column1Lbl
+Column2Lbl
+...
+Column30Lbl
+Column31Lbl
+Column32Lbl
+Column33Lbl
+{{item.Column1}}
+{{item.Column2}}
+...
+{{item.Column30}}
+{{item.Column31}}
+{{item.Column32}}...
+            ",ClosedXML exporta Excel con error No property or field '...' exists in type '<CastIterator>d__97`1' desde columna 33
+"
+                Tengo un problema con la desinstalación de SQL Server 2022.
+1.- si desinstalo desde el Panel de control en Archivos de programasx86 se elimina pero en Archivos de programas no se elimina a menos que ...
+            ","Quiero Eliminar SQL Server 2022 por completo e instalarlo de nuevo, problemas en la desinstalacion e instalación"
+"
+                Tengo un problema con la desinstalación de SQL Server 2022.
+1.- si desinstalo desde el Panel de control en Archivos de programasx86 se elimina pero en Archivos de programas no se elimina a menos que ...
+            ","Quiero Eliminar SQL Server 2022 por completo e instalarlo de nuevo, problemas en la desinstalacion e instalación"
+"
+                En una aplicación de escritorio que estoy desarrollando al tratar de activar la cámara web sin mostrar error me cierra dicha aplicación.
+¿Alguien le ha pasado esta situación que me pueda decir como ...
+            ",Al tratar de activar la webcam me cierra la aplicacion Delphi [cerrada]
+"
+                En una aplicación de escritorio que estoy desarrollando al tratar de activar la cámara web sin mostrar error me cierra dicha aplicación.
+¿Alguien le ha pasado esta situación que me pueda decir como ...
+            ",Al tratar de activar la webcam me cierra la aplicacion Delphi [cerrada]
+"
+                Tengo un servidor local hecho con Flask, y me gustaría servirla en github action, pero github action solo sirve páginas estáticas. Me gustaria hacer un archivo que agarre todas las url y guardar los ...
+            ",¿Como guardar archivos estaticos de todas las url en un directorio en flask?
+"
+                Tengo un servidor local hecho con Flask, y me gustaría servirla en github action, pero github action solo sirve páginas estáticas. Me gustaria hacer un archivo que agarre todas las url y guardar los ...
+            ",¿Como guardar archivos estaticos de todas las url en un directorio en flask?
+"
+                estaba haciendo un proyecto de antlr y estaba tratando de debugar un proyecto en c++.
+#include <iostream>
+
+#include ""antlr4-runtime.h""
+#include ""calcLexer.h""
+#include ""...
+            ",c++ genera .exe.recipe en vez de .exe
+"
+                estaba haciendo un proyecto de antlr y estaba tratando de debugar un proyecto en c++.
+#include <iostream>
+
+#include ""antlr4-runtime.h""
+#include ""calcLexer.h""
+#include ""...
+            ",c++ genera .exe.recipe en vez de .exe
+"
+                Hellos comunidad, fíjense que quiero usar pusher para hacer la gestión de notificaciones en una aplicación Laravel 11, y e intentado seguir el ejemplo que da la web y sigo los paso pero al momento de ...
+            ",Configurar pusher en Laravel 11
+"
+                Hellos comunidad, fíjense que quiero usar pusher para hacer la gestión de notificaciones en una aplicación Laravel 11, y e intentado seguir el ejemplo que da la web y sigo los paso pero al momento de ...
+            ",Configurar pusher en Laravel 11
+"
+                He instalado VS Code en MacBook, pero no me deja trabajar el proyecto que deseo, ya que se me advierte que la extension VS Code no esta activa.
+Hay forma de trabajar con VS Code a traves de una ...
+            ",VS Code en MacBook [cerrada]
+"
+                He instalado VS Code en MacBook, pero no me deja trabajar el proyecto que deseo, ya que se me advierte que la extension VS Code no esta activa.
+Hay forma de trabajar con VS Code a traves de una ...
+            ",VS Code en MacBook [cerrada]
+"
+                Quiero usar sudo su con un root sin contraseña.
+Tuve este problema con sudo, me daba ste error.
+sudo su
+sudo: PAM account management error: El servicio de autenticación no puede recuperar la ...
+            ","Linux sudo ""no puede recuperar la información de autenticación"""
+"
+                Quiero usar sudo su con un root sin contraseña.
+Tuve este problema con sudo, me daba ste error.
+sudo su
+sudo: PAM account management error: El servicio de autenticación no puede recuperar la ...
+            ","Linux sudo ""no puede recuperar la información de autenticación"""
+"
+                Actualmente para refrescar una pantalla uso el siguiente código, el cual simplemente recarga el activity.
+¿Existe una mejor forma o así esta bien?
+Gracias
+public void actualizar(View view) {
+    ...
+            ",¿opciones para refrescar activity? [cerrada]
+"
+                Actualmente para refrescar una pantalla uso el siguiente código, el cual simplemente recarga el activity.
+¿Existe una mejor forma o así esta bien?
+Gracias
+public void actualizar(View view) {
+    ...
+            ",¿opciones para refrescar activity? [cerrada]
+"
+                necesito que me den una mano, es que instale VSC y me esta dando problemas al querer hacer programas en c no así con C++ y Python
+Para mi que hay algún problema entre C y C++
+Capaz sea alguna ...
+            ",como configurar visual studio code para trabajar con python c y c++
+"
+                necesito que me den una mano, es que instale VSC y me esta dando problemas al querer hacer programas en c no así con C++ y Python
+Para mi que hay algún problema entre C y C++
+Capaz sea alguna ...
+            ",como configurar visual studio code para trabajar con python c y c++
+"
+                Tengo un problema en un proyecto en MVC C# y Sql Server utilizo datatables, he creado un archivo JavaScript que llena y muestra los datos que trae del SQL Server en un datatable y lo muestra en un ...
+            ",llamar un datatable con datos en varias vistas desde un archivo javsacript
+"
+                Tengo un problema en un proyecto en MVC C# y Sql Server utilizo datatables, he creado un archivo JavaScript que llena y muestra los datos que trae del SQL Server en un datatable y lo muestra en un ...
+            ",llamar un datatable con datos en varias vistas desde un archivo javsacript

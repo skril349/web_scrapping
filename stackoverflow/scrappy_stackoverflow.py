@@ -1,14 +1,3 @@
-import sys
-import asyncio
-from twisted.internet import asyncioreactor
-
-# Comprova si el bucle d'events és ProactorEventLoop i substitueix-lo per SelectorEventLoop
-if isinstance(asyncio.get_event_loop(), asyncio.ProactorEventLoop):
-    asyncio.set_event_loop(asyncio.SelectorEventLoop())
-
-# Instal·la el reactor compatible amb asyncio
-asyncioreactor.install(asyncio.get_event_loop())
-
 
 from scrapy.item import Field, Item
 from scrapy.spiders import Spider
